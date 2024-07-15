@@ -1,0 +1,21 @@
+.center {
+  text-align: center;
+  color: orange;
+  font-size: 50px;
+}
+.bg-red {
+  background: red;
+}
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.item-center {
+  align-items: center;
+}
